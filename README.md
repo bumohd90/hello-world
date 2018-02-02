@@ -1,3 +1,14 @@
 # hello-world
-Trying bold text and regular one too....
-## Interesting
+Thi sis heading 1....
+## Introduction
+This is the first para in this section
+## Previous Work
+Add some references and links such as this [one](http://www.sharjah.ac.ae).
+## Lists
+A buletted list would be something like ..
+* first point
+* second point
+* third point **bold stuff** ...
+* fourth point -another style- 'is this code' or `this one???`
+  * sublist 1
+  * sub list 2
