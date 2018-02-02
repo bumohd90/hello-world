@@ -9,6 +9,6 @@ A buletted list would be something like ..
 * first point
 * second point
 * third point **bold stuff** ...
-* fourth point -another style- 'is this code' or `this one???`
+* fourth point -another style- ~italic~  or use code-style `this one???`
   * sublist 1
   * sub list 2
