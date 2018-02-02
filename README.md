@@ -1,6 +1,9 @@
 # hello-world
-Thi sis heading 1....
-## Introduction
+This is main heading. We have 3 sections:
+* [Introduction](#intro)
+* [Previous Work](#intro)
+* [Lists](#intro)
+## Introduction (#intro)
 This is the first para in this section
 ## Previous Work
 Add some references and links such as this [one](http://www.sharjah.ac.ae).
@@ -9,6 +12,6 @@ A buletted list would be something like ..
 * first point
 * second point
 * third point **bold stuff** ...
-* fourth point -another style- ~italic~  or use code-style `this one???`
+* fourth point: use code-style `this one???`
   * sublist 1
-  * sub list 2
+  * sublist 2
