@@ -1,8 +1,8 @@
 # hello-world
 This is main heading. We have 3 sections:
-- [Introduction](#Introduction)
-- [Previous Work](#Previous-Work)
-- [Lists](#Lists)
+- [Introduction](#introduction)
+- [Previous Work](#previous-Work)
+- [Lists](#lists)
 
 ## Introduction
 
