@@ -18,7 +18,7 @@ The following table summarize some tatistics on the HARD Dataset.
 
 The following figure depicts the reviews distribution in HARD Datasets; balanced (inner) and unbalanced (outer).
 
-![alt text](https://github.com/bumohd90/hello-world/edit/master/datasets.png"Logo Title Text 1")
+![alt tag](http://github.com/bumohd90/hello-world/edit/master/datasets.png)
 
 Reference-style: 
 ![alt text][logo]
