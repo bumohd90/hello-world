@@ -16,6 +16,10 @@ The following table summarize some tatistics on the HARD Dataset.
 | Max reviews per hotel    	| 5,793   	| Avg. reviews per user    	| 15.8      	|
 | Median reviews per hotel 	| 150     	| Number of tokens         	| 8,520,886 	|
 
+The following figure depicts the reviews distribution in HARD Datasets; balanced (inner) and unbalanced (outer).
+
+![alt text](https://github.com/bumohd90/hello-world/edit/master/datasets.png "Logo Title Text 1")
+
 You may refer to our paper, cited below, for details on the dataset.
 
 ## Dataset
