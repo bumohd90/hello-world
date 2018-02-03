@@ -34,26 +34,26 @@ Citation
 ---------
 Please cite the following paper if you decise to use the dataset:
 
-`Elnagar A., Khalifa Y.S., Einea A. (2018) Hotel Arabic-Reviews Dataset Construction for Sentiment Analysis Applications. 
-In: Shaalan K., Hassanien A., Tolba F. (eds) Intelligent Natural Language Processing: Trends and Applications. 
-Studies in Computational Intelligence, vol 740, pp: 35-52. Springer International Publishing. doi="10.1007/978-3-319-67056-0_3'
+  Elnagar A., Khalifa Y.S., Einea A. (2018) Hotel Arabic-Reviews Dataset Construction for Sentiment Analysis Applications. 
+  In: Shaalan K., Hassanien A., Tolba F. (eds) Intelligent Natural Language Processing: Trends and Applications. 
+  Studies in Computational Intelligence, vol 740, pp: 35-52. Springer International Publishing. doi="10.1007/978-3-319-67056-0_3
 
 * bib item details
 
-`@Inbook{Elnagar2018,
-author="Elnagar, Ashraf
-and Khalifa, Yasmin S.
-and Einea, Anas",
-editor="Shaalan, Khaled
-and Hassanien, Aboul Ella
-and Tolba, Fahmy",
-title="Hotel Arabic-Reviews Dataset Construction for Sentiment Analysis Applications",
-bookTitle="Intelligent Natural Language Processing: Trends and Applications",
-year="2018",
-publisher="Springer International Publishing",
-address="Cham",
-pages="35--52",
-isbn="978-3-319-67056-0",
-doi="10.1007/978-3-319-67056-0_3",
-url="https://doi.org/10.1007/978-3-319-67056-0_3"
-}`
+    @Inbook{Elnagar2018,
+    author="Elnagar, Ashraf
+    and Khalifa, Yasmin S.
+    and Einea, Anas",
+    editor="Shaalan, Khaled
+    and Hassanien, Aboul Ella
+    and Tolba, Fahmy",
+    title="Hotel Arabic-Reviews Dataset Construction for Sentiment Analysis Applications",
+    bookTitle="Intelligent Natural Language Processing: Trends and Applications",
+    year="2018",
+    publisher="Springer International Publishing",
+    address="Cham",
+    pages="35--52",
+    isbn="978-3-319-67056-0",
+    doi="10.1007/978-3-319-67056-0_3",
+    url="https://doi.org/10.1007/978-3-319-67056-0_3"
+    }
