@@ -20,11 +20,6 @@ The following figure depicts the reviews distribution in HARD Datasets; balanced
 
 ![alt text](datasets.png)
 
-<p align="center">
-  <img src="http://github.com/bumohd90/hello-world/edit/master/datasets.png" width="350"/>
-  <img src="http://github.com/bumohd90/hello-world/edit/master/datasets.png" width="350"/>
-</p>
-
 You may refer to our paper, cited below, for details on the dataset.
 
 ## Dataset
