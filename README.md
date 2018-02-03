@@ -1,32 +1,15 @@
-# hello-world
-This is main heading. We have 3 sections:
-- [Introduction](#introduction)
-- [Previous Work](#previous-work)
-- [Lists](#lists)
+# HARD: Hotel Arabic-Reviews Dataset
+- [Description](#description)
+- [Dataset](#dataset)
+- [Citation](#citation)
 
-## Introduction
-
-This is the first para in this section
-## Previous Work
-
-Add some references and links such as this [one](http://www.sharjah.ac.ae).
-## Lists
-A buletted list would be something like ..
-* first point
-* second point *italic*
-* third point **bold stuff** ...
-* fourth point: use code-style `this one???`
-  * sublist 1
-  * sublist 2
-  
-HARD: Hotel Arabic-Reviews Dataset
--------------------------------------
+## Description
 
 This dataset contains over 63,000 book reviews in Arabic. The hotel reviews
 were collected from [Booking.com](http://www.booking.com) website during June/July 2016. 
 
-Contents:
----------
+## DAtaset
+
 - data/
                       
   - balanced-reviews.tsv: a tab separated file containing a balanced dataset of positive and negative reviews. The ratings are 
@@ -47,17 +30,17 @@ Contents:
                      review: the text of the review
                        
                    
-Reference
+Citation
 ---------
-Please cite this paper for any usage of the dataset:
+Please cite the following paper if you decise to use the dataset:
 
-Elnagar A., Khalifa Y.S., Einea A. (2018) Hotel Arabic-Reviews Dataset Construction for Sentiment Analysis Applications. 
+`Elnagar A., Khalifa Y.S., Einea A. (2018) Hotel Arabic-Reviews Dataset Construction for Sentiment Analysis Applications. 
 In: Shaalan K., Hassanien A., Tolba F. (eds) Intelligent Natural Language Processing: Trends and Applications. 
-Studies in Computational Intelligence, vol 740, pp: 35-52. Springer International Publishing.
+Studies in Computational Intelligence, vol 740, pp: 35-52. Springer International Publishing. doi="10.1007/978-3-319-67056-0_3'
 
-- bib item
+* bib item details
 
-@Inbook{Elnagar2018,
+`@Inbook{Elnagar2018,
 author="Elnagar, Ashraf
 and Khalifa, Yasmin S.
 and Einea, Anas",
@@ -73,4 +56,4 @@ pages="35--52",
 isbn="978-3-319-67056-0",
 doi="10.1007/978-3-319-67056-0_3",
 url="https://doi.org/10.1007/978-3-319-67056-0_3"
-}
+}`
