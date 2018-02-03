@@ -5,8 +5,7 @@
 
 ## Description
 
-This dataset contains over 63,000 book reviews in Arabic. The hotel reviews
-were collected from [Booking.com](http://www.booking.com) website during June/July 2016. 
+This dataset contains **93700** hotel reviews in Arabic language. The hotel reviews were collected from [Booking.com](http://www.booking.com) website during June/July 2016. The reviews are expressed in Modern Standard Arabic as well as dialectal Arabic.
 
 ## DAtaset
 
@@ -16,7 +15,9 @@ were collected from [Booking.com](http://www.booking.com) website during June/Ju
                      mapped into positive (ratings 4 & 5) and negative (ratings 1 & 2). No nuetral reviews are included. 
                      The dataset consists of *93700* reviews; *46850* for each positive and negative classes.
                      
-  - unbalanced-reviews.tsv: the whole dataset of *492,457* reviews.  The format of each review record is:
+   - balanced-reviews.csv: same as above dataset but using the CSV format.
+
+- unbalanced-reviews.tsv: the whole dataset of *492,457* reviews.  The format of each review record is:
                      
                      rating<TAB>sentiment<TAB>review_id<TAB>hotel_id<TAB>user_id<TAB>no_nights<TAB>review
                      
