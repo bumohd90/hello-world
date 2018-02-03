@@ -30,17 +30,16 @@ were collected from [Booking.com](http://www.booking.com) website during June/Ju
                      review: the text of the review
                        
                    
-Citation
----------
+##Citation
+
 Please cite the following paper if you decise to use the dataset:
 
-  Elnagar A., Khalifa Y.S., Einea A. (2018) Hotel Arabic-Reviews Dataset Construction for Sentiment Analysis Applications. 
-  In: Shaalan K., Hassanien A., Tolba F. (eds) Intelligent Natural Language Processing: Trends and Applications. 
-  Studies in Computational Intelligence, vol 740, pp: 35-52. Springer International Publishing. doi="10.1007/978-3-319-67056-0_3
+    Elnagar A., Khalifa Y.S., Einea A. (2018) Hotel Arabic-Reviews Dataset Construction for Sentiment Analysis Applications. 
+    In: Shaalan K., Hassanien A., Tolba F. (eds) Intelligent Natural Language Processing: Trends and Applications. 
+    Studies in Computational Intelligence, vol 740, pp: 35-52. Springer International Publishing. doi="10.1007/978-3-319-67056-0_3
 
-* bib item details
-
-    @Inbook{Elnagar2018,
+**bib item details**:
+    *@Inbook{Elnagar2018,
     author="Elnagar, Ashraf
     and Khalifa, Yasmin S.
     and Einea, Anas",
@@ -56,4 +55,4 @@ Please cite the following paper if you decise to use the dataset:
     isbn="978-3-319-67056-0",
     doi="10.1007/978-3-319-67056-0_3",
     url="https://doi.org/10.1007/978-3-319-67056-0_3"
-    }
+    }*
