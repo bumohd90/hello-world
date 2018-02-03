@@ -8,30 +8,13 @@
 This dataset contains **93700** hotel reviews in Arabic language. The hotel reviews were collected from [Booking.com](http://www.booking.com) website during June/July 2016. The reviews are expressed in Modern Standard Arabic as well as dialectal Arabic. 
 The following table summarize some tatistics on the HARD Dataset.
 
-| Title                    	| Number  	| Title                    	| Number    	|
+| Property                  | Number  	| Property                  | Number    	|
 |--------------------------	|---------	|--------------------------	|-----------	|
 | Number of reviews        	| 373,750 	| Median reviews per hotel 	| 150       	|
 | Number of hotels         	| 1,858   	| Min reviews per hotel    	| 3         	|
 | Avg. reviews per hotel   	| 264     	| Number of users          	| 30,889    	|
 | Max reviews per hotel    	| 5,793   	| Avg. reviews per user    	| 15.8      	|
 | Median reviews per hotel 	| 150     	| Number of tokens         	| 8,520,886 	|
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 You may refer to our paper, cited below, for details on the dataset.
 
