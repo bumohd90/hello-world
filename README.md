@@ -18,3 +18,59 @@ A buletted list would be something like ..
 * fourth point: use code-style `this one???`
   * sublist 1
   * sublist 2
+  
+HARD: Hotel Arabic-Reviews Dataset
+-------------------------------------
+
+This dataset contains over 63,000 book reviews in Arabic. The hotel reviews
+were collected from [Booking.com](http://www.booking.com) website during June/July 2016. 
+
+Contents:
+---------
+- data/
+                      
+  - balanced-reviews.tsv: a tab separated file containing a balanced dataset of positive and negative reviews. The ratings are 
+                     mapped into positive (ratings 4 & 5) and negative (ratings 1 & 2). No nuetral reviews are included. 
+                     The dataset consists of *93700* reviews; *46850* for each positive and negative classes.
+                     
+  - unbalanced-reviews.tsv: the whole dataset of *492,457* reviews.  The format of each review record is:
+                     
+                     rating<TAB>sentiment<TAB>review_id<TAB>hotel_id<TAB>user_id<TAB>no_nights<TAB>review
+                     
+    where:
+                     rating: the user rating on a scale of 1 to 5
+                     sentiment: -1 (negative) and 1 (positive)
+                     review id: the id of the review (to access the review of a specific review)
+                     hotel id: the id of the hotel
+                     user id: the type of user (single, couple, ...)
+                     nights: number of nights stayed in the hotel
+                     review: the text of the review
+                       
+                   
+Reference
+---------
+Please cite this paper for any usage of the dataset:
+
+Elnagar A., Khalifa Y.S., Einea A. (2018) Hotel Arabic-Reviews Dataset Construction for Sentiment Analysis Applications. 
+In: Shaalan K., Hassanien A., Tolba F. (eds) Intelligent Natural Language Processing: Trends and Applications. 
+Studies in Computational Intelligence, vol 740, pp: 35-52. Springer International Publishing.
+
+- bib item
+
+@Inbook{Elnagar2018,
+author="Elnagar, Ashraf
+and Khalifa, Yasmin S.
+and Einea, Anas",
+editor="Shaalan, Khaled
+and Hassanien, Aboul Ella
+and Tolba, Fahmy",
+title="Hotel Arabic-Reviews Dataset Construction for Sentiment Analysis Applications",
+bookTitle="Intelligent Natural Language Processing: Trends and Applications",
+year="2018",
+publisher="Springer International Publishing",
+address="Cham",
+pages="35--52",
+isbn="978-3-319-67056-0",
+doi="10.1007/978-3-319-67056-0_3",
+url="https://doi.org/10.1007/978-3-319-67056-0_3"
+}
